@@ -1,0 +1,65 @@
+c:\users\юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Александр\Downloads\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Andrei_Toukach\Downloads\xml_writer_1\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Andrei_Toukach\Desktop\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Andrei_Toukach\Desktop\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Andrei_Toukach\Desktop\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\Александр\Downloads\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+D:\Novaya_papka\Новая папка\xml_writer\xml_writer\xml_writer\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\xml_writer\xml_writer\bin\Debug\xml_writer.exe.config
+C:\Users\User\Desktop\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\User\Desktop\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\User\Desktop\xml_writer\xml_writer\bin\Debug\xml_writer.exe
+C:\Users\User\Desktop\xml_writer\xml_writer\bin\Debug\xml_writer.pdb
+C:\Users\User\Desktop\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\User\Desktop\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\User\Desktop\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\obj\Debug\xml_writer.exe
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\obj\Debug\xml_writer.pdb
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\obj\Debug\xml_writer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\obj\Debug\xml_writer.Form1.resources
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\obj\Debug\xml_writer.Properties.Resources.resources
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\obj\Debug\xml_writer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\xml_writer.exe.config
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\xml_writer.exe
+C:\Users\User\Desktop\курсовая 3 сем каталогизатор\xml_writer\xml_writer\xml_writer.pdb
